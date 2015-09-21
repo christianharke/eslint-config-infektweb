@@ -26,7 +26,7 @@ module.exports = {
         'react/jsx-no-undef': 2,
 
         // Enforce quote style for JSX attributes
-        'react/jsx-quotes': [2, 'double'],
+        'jsx-quotes': [2, 'prefer-double'],
 
         // Enforce propTypes declarations alphabetical sorting
         'react/jsx-sort-prop-types': 2,
